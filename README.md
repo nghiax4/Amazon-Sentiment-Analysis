@@ -1,2 +1,2 @@
-# Amazon-Sentiment-Analysis
+Sentiment-Analysis-Sklearn
 Sentiment Analysis with SVM from Sklearn
